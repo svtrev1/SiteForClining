@@ -19,7 +19,7 @@ header {
     position: fixed;
     z-index: 3;
 }
-.logo1{
+.logo{
     padding: 0 10% 0 10%;
 }
 
@@ -167,7 +167,7 @@ a:hover {
 
 .txtarea {
     display: flex;
-    width: 100%;
+    width: 99%;
     height: 100px;
     margin-top: 40px;
     border: 3px solid black;
@@ -205,6 +205,8 @@ a:hover {
 #send:hover {
     background: black;;
 }
+
+/*footer*/
 
 footer {
     width: 98%;
