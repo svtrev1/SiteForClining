@@ -17,7 +17,7 @@ header {
     align-items: center;
     padding: 10px 0;
     position: fixed;
-    z-index: 3;
+    z-index: 100;
 }
 .logo{
     padding: 0 10% 0 10%;
@@ -132,7 +132,6 @@ a:hover {
 .third {
     display: flex;
     justify-content: space-between;
-    
     background-color: #4F666E;
 }
 
@@ -203,7 +202,7 @@ a:hover {
 }
 
 #send:hover {
-    background: black;;
+    background: gray;
 }
 
 /*footer*/
